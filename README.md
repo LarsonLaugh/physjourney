@@ -3,4 +3,4 @@ To summarize my scientific work in a way the public can easily accept and unders
 
 ---
 ### Table of Contents
-[Aharonov-Bohm oscillations in Dirac semimetal Cd3As2 nanowires](https://github.com/LarsonLaugh/physjourney/blob/a3bf11a2c55bc739aacec1a5905f51b51fac7bb4/ab-effect-dirac-semimetal-nanowire/Aharonov-Bohm%20oscillations%20in%20Dirac%20semimetal%20Cd3As2%20nanowires.md)
+[Aharonov-Bohm oscillations in Dirac semimetal Cd3As2 nanowires](https://github.com/LarsonLaugh/physjourney/blob/main/ab-effect-dirac-semimetal-nanowire/Aharonov-Bohm%20oscillations%20in%20Dirac%20semimetal%20Cd3As2%20nanowires.md)
