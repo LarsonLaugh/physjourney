@@ -1,2 +1,6 @@
-# physjourney
-to summarize my scientific work in a public acceptable way
+# Look-back on my personal journey to physics study
+To summarize my scientific work in a way the public can easily accept and understand, I start this serials of essays to break the boundary between public and my research work. As every researcher knows, it is supposed to be a good paper if hundreds of others read it. If more than thousands of people have cited your paper, you must have done something remarkably important in a specific field. But you may only get the one hundredth of attention a mediocre Youtuber can gain from public. Public needs something to relax and get away quickly from stressful work not science you may say. It is unfair to compare scientist with Youtuber at all. Yes, but how do we know science in the beginning, it must be some moment you are really into it, even when you decide to leave academic career, still feel grateful to have spent some time in science. You are introduced to science by someone, now you are the one to influence more.  What I want to say here is, scientists need to catch up the trend as well and to learn the skills of influencing people around and beyond. For me, it is the first step to look back on my own research and to see how good I can do in telling a story to others with average scientific experience and making them feel inspiring and enjoyable.
+
+---
+### Table of Contents
+[[Aharonov-Bohm oscillations in Dirac semimetal Cd3As2 nanowires]]
